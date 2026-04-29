@@ -1,0 +1,20 @@
+[
+  {
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "korean": "안녕하세요",
+    "example": "你好,很高兴认识你!"
+  },
+  {
+    "chinese": "谢谢",
+    "pinyin": "xièxiè",
+    "korean": "감사합니다",
+    "example": "谢谢你的帮助。"
+  },
+  {
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "korean": "안녕히 가세요",
+    "example": "再见,明天见!"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "xiaohongshu-chinese-generator",
+  "version": "1.0.0",
+  "description": "Generate 9:16 Xiaohongshu-style Chinese learning images",
+  "main": "generate.js",
+  "scripts": {
+    "install-deps": "npm install"
+  },
+  "keywords": [
+    "xiaohongshu",
+    "chinese",
+    "learning",
+    "image",
+    "generator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
